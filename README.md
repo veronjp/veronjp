@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I’m Veronica 👋
 
-<!--
-**veronjp/veronjp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a self-taught **Data Analyst & Customer Insights professional** with 10+ years of experience in strategy, insurance, and FMCG, now combining **data analytics, psychology, and storytelling** to understand how people actually behave.
 
-Here are some ideas to get you started:
+I migrated to Australia on my own, rebuilt my career from scratch, and returned to university to study psychology — driven by a deep curiosity about decision-making, behaviour change, and human systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 What I’m focused on
+- Customer & behavioural insights  
+- Translating data into clear business decisions  
+- Experimentation, testing, and measurement  
+- Applying psychology to analytics and strategy  
+
+---
+
+## 🛠️ Tools & Skills
+- **Data:** SQL, Excel, Power BI, Looker Studio  
+- **Analytics:** Customer insights, experimentation, dashboards  
+- **Strategy:** Business storytelling, stakeholder communication  
+- **Psychology:** Behaviour change, decision-making, cognitive frameworks  
+
+---
+
+## 📂 What you’ll find here
+- SQL analysis projects  
+- Insight-driven dashboards  
+- Learning notes and experiments  
+- End-to-end case studies focused on *why*, not just *what*  
+
+Each project includes clear context, reasoning, and outcomes — written as if explaining insights to a real business audience.
+
+---
+
+## 🌱 Currently
+- Completing a **Postgraduate Diploma in Psychology**  
+- Deepening SQL, analytics, and experimentation skills  
+- Building a portfolio that bridges **data × behaviour × strategy**
+
+---
+
+## 🤝 Let’s connect
+I’m interested in roles across **Data Analytics, Customer Insights, Behavioural Analysis, and Strategy**.
+
+📍 Sydney, Australia  
+💬 Open to collaboration, learning, and thoughtful conversations
+
